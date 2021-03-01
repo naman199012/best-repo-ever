@@ -1,2 +1,2 @@
 # best-repo-ever
-Thanks
+This is great. Thanks!
