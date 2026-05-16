@@ -1,9 +1,0 @@
-<apex:page
-    controller="PageMessagesDataRetrievalController"
-    action="{!getAccounts}"
->
-    <apex:form>
-        <apex:pageMessages />
-        {!accounts}
-    </apex:form>
-</apex:page>
