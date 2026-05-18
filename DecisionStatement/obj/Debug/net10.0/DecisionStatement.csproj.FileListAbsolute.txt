@@ -1,0 +1,15 @@
+C:\GitHubRepos\best-repo-ever\DecisionStatement\bin\Debug\net10.0\DecisionStatement.exe
+C:\GitHubRepos\best-repo-ever\DecisionStatement\bin\Debug\net10.0\DecisionStatement.deps.json
+C:\GitHubRepos\best-repo-ever\DecisionStatement\bin\Debug\net10.0\DecisionStatement.runtimeconfig.json
+C:\GitHubRepos\best-repo-ever\DecisionStatement\bin\Debug\net10.0\DecisionStatement.dll
+C:\GitHubRepos\best-repo-ever\DecisionStatement\bin\Debug\net10.0\DecisionStatement.pdb
+C:\GitHubRepos\best-repo-ever\DecisionStatement\obj\Debug\net10.0\DecisionStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubRepos\best-repo-ever\DecisionStatement\obj\Debug\net10.0\DecisionStatement.AssemblyInfoInputs.cache
+C:\GitHubRepos\best-repo-ever\DecisionStatement\obj\Debug\net10.0\DecisionStatement.AssemblyInfo.cs
+C:\GitHubRepos\best-repo-ever\DecisionStatement\obj\Debug\net10.0\DecisionStatement.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\best-repo-ever\DecisionStatement\obj\Debug\net10.0\DecisionStatement.sourcelink.json
+C:\GitHubRepos\best-repo-ever\DecisionStatement\obj\Debug\net10.0\DecisionStatement.dll
+C:\GitHubRepos\best-repo-ever\DecisionStatement\obj\Debug\net10.0\refint\DecisionStatement.dll
+C:\GitHubRepos\best-repo-ever\DecisionStatement\obj\Debug\net10.0\DecisionStatement.pdb
+C:\GitHubRepos\best-repo-ever\DecisionStatement\obj\Debug\net10.0\DecisionStatement.genruntimeconfig.cache
+C:\GitHubRepos\best-repo-ever\DecisionStatement\obj\Debug\net10.0\ref\DecisionStatement.dll
