@@ -1,0 +1,15 @@
+C:\GitHubRepos\best-repo-ever\CalculateScores\bin\Debug\net10.0\CalculateScores.exe
+C:\GitHubRepos\best-repo-ever\CalculateScores\bin\Debug\net10.0\CalculateScores.deps.json
+C:\GitHubRepos\best-repo-ever\CalculateScores\bin\Debug\net10.0\CalculateScores.runtimeconfig.json
+C:\GitHubRepos\best-repo-ever\CalculateScores\bin\Debug\net10.0\CalculateScores.dll
+C:\GitHubRepos\best-repo-ever\CalculateScores\bin\Debug\net10.0\CalculateScores.pdb
+C:\GitHubRepos\best-repo-ever\CalculateScores\obj\Debug\net10.0\CalculateScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubRepos\best-repo-ever\CalculateScores\obj\Debug\net10.0\CalculateScores.AssemblyInfoInputs.cache
+C:\GitHubRepos\best-repo-ever\CalculateScores\obj\Debug\net10.0\CalculateScores.AssemblyInfo.cs
+C:\GitHubRepos\best-repo-ever\CalculateScores\obj\Debug\net10.0\CalculateScores.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\best-repo-ever\CalculateScores\obj\Debug\net10.0\CalculateScores.sourcelink.json
+C:\GitHubRepos\best-repo-ever\CalculateScores\obj\Debug\net10.0\CalculateScores.dll
+C:\GitHubRepos\best-repo-ever\CalculateScores\obj\Debug\net10.0\refint\CalculateScores.dll
+C:\GitHubRepos\best-repo-ever\CalculateScores\obj\Debug\net10.0\CalculateScores.pdb
+C:\GitHubRepos\best-repo-ever\CalculateScores\obj\Debug\net10.0\CalculateScores.genruntimeconfig.cache
+C:\GitHubRepos\best-repo-ever\CalculateScores\obj\Debug\net10.0\ref\CalculateScores.dll
