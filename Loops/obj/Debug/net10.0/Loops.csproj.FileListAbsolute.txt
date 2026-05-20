@@ -1,0 +1,15 @@
+C:\GitHubRepos\best-repo-ever\Loops\bin\Debug\net10.0\Loops.exe
+C:\GitHubRepos\best-repo-ever\Loops\bin\Debug\net10.0\Loops.deps.json
+C:\GitHubRepos\best-repo-ever\Loops\bin\Debug\net10.0\Loops.runtimeconfig.json
+C:\GitHubRepos\best-repo-ever\Loops\bin\Debug\net10.0\Loops.dll
+C:\GitHubRepos\best-repo-ever\Loops\bin\Debug\net10.0\Loops.pdb
+C:\GitHubRepos\best-repo-ever\Loops\obj\Debug\net10.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubRepos\best-repo-ever\Loops\obj\Debug\net10.0\Loops.AssemblyInfoInputs.cache
+C:\GitHubRepos\best-repo-ever\Loops\obj\Debug\net10.0\Loops.AssemblyInfo.cs
+C:\GitHubRepos\best-repo-ever\Loops\obj\Debug\net10.0\Loops.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\best-repo-ever\Loops\obj\Debug\net10.0\Loops.sourcelink.json
+C:\GitHubRepos\best-repo-ever\Loops\obj\Debug\net10.0\Loops.dll
+C:\GitHubRepos\best-repo-ever\Loops\obj\Debug\net10.0\refint\Loops.dll
+C:\GitHubRepos\best-repo-ever\Loops\obj\Debug\net10.0\Loops.pdb
+C:\GitHubRepos\best-repo-ever\Loops\obj\Debug\net10.0\Loops.genruntimeconfig.cache
+C:\GitHubRepos\best-repo-ever\Loops\obj\Debug\net10.0\ref\Loops.dll
