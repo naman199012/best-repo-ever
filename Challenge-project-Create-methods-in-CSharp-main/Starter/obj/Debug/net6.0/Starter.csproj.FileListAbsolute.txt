@@ -1,0 +1,15 @@
+C:\GitHubRepos\best-repo-ever\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.exe
+C:\GitHubRepos\best-repo-ever\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.deps.json
+C:\GitHubRepos\best-repo-ever\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.runtimeconfig.json
+C:\GitHubRepos\best-repo-ever\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.dll
+C:\GitHubRepos\best-repo-ever\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.pdb
+C:\GitHubRepos\best-repo-ever\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubRepos\best-repo-ever\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.AssemblyInfoInputs.cache
+C:\GitHubRepos\best-repo-ever\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.AssemblyInfo.cs
+C:\GitHubRepos\best-repo-ever\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\best-repo-ever\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.sourcelink.json
+C:\GitHubRepos\best-repo-ever\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.dll
+C:\GitHubRepos\best-repo-ever\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\refint\Starter.dll
+C:\GitHubRepos\best-repo-ever\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.pdb
+C:\GitHubRepos\best-repo-ever\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.genruntimeconfig.cache
+C:\GitHubRepos\best-repo-ever\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\ref\Starter.dll
