@@ -1,0 +1,14 @@
+C:\Users\Neha\Desktop\My CSharp Projects\Classes_M1\bin\Debug\net10.0\Classes_M1.exe
+C:\Users\Neha\Desktop\My CSharp Projects\Classes_M1\bin\Debug\net10.0\Classes_M1.deps.json
+C:\Users\Neha\Desktop\My CSharp Projects\Classes_M1\bin\Debug\net10.0\Classes_M1.runtimeconfig.json
+C:\Users\Neha\Desktop\My CSharp Projects\Classes_M1\bin\Debug\net10.0\Classes_M1.dll
+C:\Users\Neha\Desktop\My CSharp Projects\Classes_M1\bin\Debug\net10.0\Classes_M1.pdb
+C:\Users\Neha\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net10.0\Classes_M1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neha\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net10.0\Classes_M1.AssemblyInfoInputs.cache
+C:\Users\Neha\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net10.0\Classes_M1.AssemblyInfo.cs
+C:\Users\Neha\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net10.0\Classes_M1.csproj.CoreCompileInputs.cache
+C:\Users\Neha\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net10.0\Classes_M1.dll
+C:\Users\Neha\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net10.0\refint\Classes_M1.dll
+C:\Users\Neha\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net10.0\Classes_M1.pdb
+C:\Users\Neha\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net10.0\Classes_M1.genruntimeconfig.cache
+C:\Users\Neha\Desktop\My CSharp Projects\Classes_M1\obj\Debug\net10.0\ref\Classes_M1.dll
