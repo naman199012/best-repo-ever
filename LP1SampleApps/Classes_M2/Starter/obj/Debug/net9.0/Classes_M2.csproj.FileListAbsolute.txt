@@ -1,0 +1,15 @@
+C:\GitHubRepos\best-repo-ever\LP1SampleApps\Classes_M2\Starter\bin\Debug\net9.0\Classes_M2.exe
+C:\GitHubRepos\best-repo-ever\LP1SampleApps\Classes_M2\Starter\bin\Debug\net9.0\Classes_M2.deps.json
+C:\GitHubRepos\best-repo-ever\LP1SampleApps\Classes_M2\Starter\bin\Debug\net9.0\Classes_M2.runtimeconfig.json
+C:\GitHubRepos\best-repo-ever\LP1SampleApps\Classes_M2\Starter\bin\Debug\net9.0\Classes_M2.dll
+C:\GitHubRepos\best-repo-ever\LP1SampleApps\Classes_M2\Starter\bin\Debug\net9.0\Classes_M2.pdb
+C:\GitHubRepos\best-repo-ever\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubRepos\best-repo-ever\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.AssemblyInfoInputs.cache
+C:\GitHubRepos\best-repo-ever\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.AssemblyInfo.cs
+C:\GitHubRepos\best-repo-ever\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\best-repo-ever\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.sourcelink.json
+C:\GitHubRepos\best-repo-ever\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.dll
+C:\GitHubRepos\best-repo-ever\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\refint\Classes_M2.dll
+C:\GitHubRepos\best-repo-ever\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.pdb
+C:\GitHubRepos\best-repo-ever\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.genruntimeconfig.cache
+C:\GitHubRepos\best-repo-ever\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\ref\Classes_M2.dll
