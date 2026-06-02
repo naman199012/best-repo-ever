@@ -1,8 +1,6 @@
-using System;
-
 namespace Classes_M3;
 
-public class BankCustomer
+public partial class BankCustomer
 {
     private static int s_nextCustomerId;
     private string _firstName = "Tim";
@@ -23,7 +21,7 @@ public class BankCustomer
 
     static BankCustomer()
     {
-        Random random = new Random();
+        Random random = new();
         s_nextCustomerId = random.Next(10000000, 20000000);
     }
 
@@ -31,26 +29,13 @@ public class BankCustomer
     {
         FirstName = firstName;
         LastName = lastName;
-        this.CustomerId = (s_nextCustomerId++).ToString("D10");
+        CustomerId = s_nextCustomerId++.ToString("D10");
     }
 
-    // Method to return the full name of the customer
-    public string ReturnFullName()
+    public BankCustomer(BankCustomer existingCustomer)
     {
-        return $"{FirstName} {LastName}";
+        FirstName = existingCustomer.FirstName;
+        LastName = existingCustomer.LastName;
+        CustomerId = s_nextCustomerId++.ToString("D10");
     }
-
-    // Method to update the customer's name
-    public void UpdateName(string firstName, string lastName)
-    {
-        FirstName = firstName;
-        LastName = lastName;
-    }
-
-    // Method to display customer information
-    public string DisplayCustomerInfo()
-    {
-        return $"Customer ID: {CustomerId}, Name: {ReturnFullName()}";
-    }
-
 }
