@@ -1,0 +1,15 @@
+C:\GitHubRepos\best-repo-ever\InterfaceMsLearn\bin\Debug\net10.0\InterfaceMsLearn.exe
+C:\GitHubRepos\best-repo-ever\InterfaceMsLearn\bin\Debug\net10.0\InterfaceMsLearn.deps.json
+C:\GitHubRepos\best-repo-ever\InterfaceMsLearn\bin\Debug\net10.0\InterfaceMsLearn.runtimeconfig.json
+C:\GitHubRepos\best-repo-ever\InterfaceMsLearn\bin\Debug\net10.0\InterfaceMsLearn.dll
+C:\GitHubRepos\best-repo-ever\InterfaceMsLearn\bin\Debug\net10.0\InterfaceMsLearn.pdb
+C:\GitHubRepos\best-repo-ever\InterfaceMsLearn\obj\Debug\net10.0\InterfaceMsLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubRepos\best-repo-ever\InterfaceMsLearn\obj\Debug\net10.0\InterfaceMsLearn.AssemblyInfoInputs.cache
+C:\GitHubRepos\best-repo-ever\InterfaceMsLearn\obj\Debug\net10.0\InterfaceMsLearn.AssemblyInfo.cs
+C:\GitHubRepos\best-repo-ever\InterfaceMsLearn\obj\Debug\net10.0\InterfaceMsLearn.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\best-repo-ever\InterfaceMsLearn\obj\Debug\net10.0\InterfaceMsLearn.sourcelink.json
+C:\GitHubRepos\best-repo-ever\InterfaceMsLearn\obj\Debug\net10.0\InterfaceMsLearn.dll
+C:\GitHubRepos\best-repo-ever\InterfaceMsLearn\obj\Debug\net10.0\refint\InterfaceMsLearn.dll
+C:\GitHubRepos\best-repo-ever\InterfaceMsLearn\obj\Debug\net10.0\InterfaceMsLearn.pdb
+C:\GitHubRepos\best-repo-ever\InterfaceMsLearn\obj\Debug\net10.0\InterfaceMsLearn.genruntimeconfig.cache
+C:\GitHubRepos\best-repo-ever\InterfaceMsLearn\obj\Debug\net10.0\ref\InterfaceMsLearn.dll
