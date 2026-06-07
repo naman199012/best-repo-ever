@@ -1,0 +1,15 @@
+C:\GitHubRepos\best-repo-ever\DecoupleWithInterfaces\bin\Debug\net10.0\DecoupleWithInterfaces.exe
+C:\GitHubRepos\best-repo-ever\DecoupleWithInterfaces\bin\Debug\net10.0\DecoupleWithInterfaces.deps.json
+C:\GitHubRepos\best-repo-ever\DecoupleWithInterfaces\bin\Debug\net10.0\DecoupleWithInterfaces.runtimeconfig.json
+C:\GitHubRepos\best-repo-ever\DecoupleWithInterfaces\bin\Debug\net10.0\DecoupleWithInterfaces.dll
+C:\GitHubRepos\best-repo-ever\DecoupleWithInterfaces\bin\Debug\net10.0\DecoupleWithInterfaces.pdb
+C:\GitHubRepos\best-repo-ever\DecoupleWithInterfaces\obj\Debug\net10.0\DecoupleWithInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubRepos\best-repo-ever\DecoupleWithInterfaces\obj\Debug\net10.0\DecoupleWithInterfaces.AssemblyInfoInputs.cache
+C:\GitHubRepos\best-repo-ever\DecoupleWithInterfaces\obj\Debug\net10.0\DecoupleWithInterfaces.AssemblyInfo.cs
+C:\GitHubRepos\best-repo-ever\DecoupleWithInterfaces\obj\Debug\net10.0\DecoupleWithInterfaces.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\best-repo-ever\DecoupleWithInterfaces\obj\Debug\net10.0\DecoupleWithInterfaces.sourcelink.json
+C:\GitHubRepos\best-repo-ever\DecoupleWithInterfaces\obj\Debug\net10.0\DecoupleWithInterfaces.dll
+C:\GitHubRepos\best-repo-ever\DecoupleWithInterfaces\obj\Debug\net10.0\refint\DecoupleWithInterfaces.dll
+C:\GitHubRepos\best-repo-ever\DecoupleWithInterfaces\obj\Debug\net10.0\DecoupleWithInterfaces.pdb
+C:\GitHubRepos\best-repo-ever\DecoupleWithInterfaces\obj\Debug\net10.0\DecoupleWithInterfaces.genruntimeconfig.cache
+C:\GitHubRepos\best-repo-ever\DecoupleWithInterfaces\obj\Debug\net10.0\ref\DecoupleWithInterfaces.dll
