@@ -1,0 +1,1 @@
+C:\GitHubRepos\best-repo-ever\FirstClassLibrary\obj\Debug\net8.0\staticwebassets.build.json
