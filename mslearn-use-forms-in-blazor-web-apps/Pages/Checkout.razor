@@ -1,4 +1,4 @@
-﻿@page "/checkout"
+@page "/checkout"
 @inject OrderState OrderState
 @inject HttpClient HttpClient
 @inject NavigationManager NavigationManager
@@ -28,21 +28,21 @@
     </div>
 
     <button class="checkout-button btn btn-warning" @onclick="PlaceOrder" disabled=@isSubmitting>
-        Place order
+      Place order
     </button>
 </div>
 
 @code {
     Order Order => OrderState.Order;
-
     bool isSubmitting;
 
     async Task PlaceOrder()
     {
         isSubmitting = true;
-        var response = await HttpClient.PostAsJsonAsync($"{NavigationManager.BaseUri}orders", OrderState.Order);
-        var newOrderId = await response.Content.ReadFromJsonAsync<int>();
+        var response = await HttpClient.PostAsJsonAsync(NavigationManager.BaseUri + "orders", OrderState.Order);
+        var newOrderId= await response.Content.ReadFromJsonAsync<int>();
         OrderState.ResetOrder();
         NavigationManager.NavigateTo($"myorders/{newOrderId}");
-    }
+    } 
+
 }

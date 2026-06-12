@@ -1,12 +1,10 @@
 @page "/"
+@layout MainLayout
 @inject HttpClient HttpClient
 @inject NavigationManager NavigationManager
 @inject OrderState OrderState
 
-
-
 <div class="main">
-  
   <ul class="pizza-cards">
     @if (specials != null)
     {
