@@ -1049,6 +1049,7 @@ $.extend( $.validator, {
 		},
 
 		validationTargetFor: function( element ) {
+			var $element;
 
 			// If radio/checkbox, validate first element in group instead
 			if ( this.checkable( element ) ) {
@@ -1056,7 +1057,17 @@ $.extend( $.validator, {
 			}
 
 			// Always apply ignore filter
-			return $( element ).not( this.settings.ignore )[ 0 ];
+			if ( !element ) {
+				return;
+			}
+			if ( element.jquery ) {
+				$element = element;
+			} else if ( element.nodeType ) {
+				$element = $( [ element ] );
+			} else {
+				return;
+			}
+			return $element.not( this.settings.ignore )[ 0 ];
 		},
 
 		checkable: function( element ) {
