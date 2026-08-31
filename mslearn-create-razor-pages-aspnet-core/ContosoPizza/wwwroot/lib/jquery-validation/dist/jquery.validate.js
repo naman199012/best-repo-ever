@@ -660,6 +660,18 @@ $.extend( $.validator, {
 		},
 
 		clean: function( selector ) {
+			if ( selector && selector.nodeType ) {
+				return selector;
+			}
+
+			if ( selector && selector.jquery ) {
+				return selector[ 0 ];
+			}
+
+			if ( typeof selector === "string" ) {
+				return $.find( selector, this.currentForm || document )[ 0 ];
+			}
+
 			return $( selector )[ 0 ];
 		},
 
