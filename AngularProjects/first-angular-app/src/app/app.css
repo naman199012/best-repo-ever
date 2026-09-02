@@ -16,11 +16,24 @@ main {
   overflow: auto;
 }
 
+#users li {
+  flex: 1 0 auto;
+}
+
 #fallback {
   font-weight: bold;
   font-size: 1.15rem;
   margin: 0;
   text-align: center;
+}
+
+#fallback h2 {
+  margin: 0 0 0.35rem;
+}
+
+#fallback p {
+  margin: 0;
+  color: #d6c9e4;
 }
 
 @media (min-width: 768px) {
