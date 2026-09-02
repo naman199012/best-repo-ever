@@ -105,7 +105,7 @@ function addMessage(text, sender, options = {}) {
     content.className = 'message-content';
 
     if (options.isHtml === true) {
-        content.innerHTML = text;
+        content.innerHTML = DOMPurify.sanitize(text);
     } else {
         // Security: Escape HTML first, then safely render structured response content.
         const formattedText = renderMessageContent(text);
